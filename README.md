@@ -13,6 +13,6 @@ All connected clients are shown as a list of shapes, with the current clients sh
 Chat Demo (chat branch)
 --------
 
-Each new client is assigned the the next user id. Enter messages and click/touch 'Send' (or press Enter) to broadcast the message to all clients.
+Each new client is assigned the next user id. Enter messages and click/touch 'Send' (or press Enter) to broadcast the message to all clients.
 This works just like a normal chatroom.
 All connected users are shown as a list at the top.
